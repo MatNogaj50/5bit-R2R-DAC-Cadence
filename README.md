@@ -8,10 +8,11 @@ The goal of this project is to implement a 5-bit R-2R ladder architecture. The d
 
 ## Specifications
 
-Resolution -- 5 bit
-Digital steering -- 2 types of signals: Sawtooth/Triangle
-Period -- 2* 32t_clk (t_clk = 2ms)
-5 incline rates
-Vout range -- 0-2V
-Keys -- SPDT TGates
-OPamp -- 2-stage amplifier, phase margin +70, gain ~75dB
+Resolution -- 5 bit  
+Digital steering -- 2 types of signals: Sawtooth/Triangle  
+Period -- 2* 32t_clk (t_clk = 2ms)  
+5 incline rates  
+Vout range -- 0-2V  
+Keys -- SPDT TGates  
+OPamp -- 2-stage amplifier, phase margin +70, gain ~75dB  
+
